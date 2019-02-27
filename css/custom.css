@@ -1,0 +1,20 @@
+#map{
+
+  margin-top: 200px;
+}
+
+.card-text{
+
+  color: white;
+}
+.card{
+  background-color: #000;
+
+}
+
+@media (max-width: 770px){
+.masthead {
+    width: 98%;
+}
+}
+
