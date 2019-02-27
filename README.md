@@ -14,7 +14,7 @@ Use VS code extension [live server](https://marketplace.visualstudio.com/items?i
 
 ## Preview
 
-**[Live Preview](https://lehman-webdev.github.io/project-2-need_wood/)**
+**[Live Preview](https://rcollado110.github.io/Schooling-Safely/)**
 
 ## About
 
